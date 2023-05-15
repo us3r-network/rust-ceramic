@@ -18,7 +18,7 @@ serde_json.workspace = true
 [dev-dependencies]
 codespan-reporting = "0.11.1"
 expect-test = "1.4.1"
-lalrpop-util = { version = "0.19.8", features = ["lexer"] }
+lalrpop-util = { version = "0.20.0", features = ["lexer"] }
 pretty = "0.11.3"
 regex = "1"
 rusqlite = "0.29.0"
